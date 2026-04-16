@@ -163,7 +163,7 @@ python transpiler/runner.py output/bigdata_quantum.qasm
 
 ## 👤 About the Author
 
-# Hi there! 👋 I'm Thiago de Mattos. My path into technology is a journey of constant evolution, moving from a background in human systems to the core of computational engineering.
+ Hi there! 👋 I'm Thiago de Mattos. My path into technology is a journey of constant evolution, moving from a background in human systems to the core of computational engineering.
 
 With a foundation in Human Resources and a completed Data Analytics bootcamp at TripleTen, I’ve learned how to interpret data to solve problems. Now, I am taking the next big step: as a Software Engineering student, I am dedicated to deepening my programming expertise and mastering the architecture behind the code.
 
