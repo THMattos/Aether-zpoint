@@ -163,11 +163,11 @@ python transpiler/runner.py output/bigdata_quantum.qasm
 
 ## 👤 About the Author
 
-Hi — I'm Thiago de Mattos, and my path to software engineering is driven by curiosity and a commitment to continuous learning.
+Hi — I'm Thiago de Mattos, and my journey into Software Engineering is built on a foundation of data, people, and a deep passion for high-performance technology.
 
-I spent two years studying Human Resources, where I developed a foundational understanding of organizational behavior and professional communication. This background gave me a unique perspective on how technology should ultimately serve people and solve human problems — a mindset I now bring into my technical projects.
+I spent two years studying Human Resources, which shaped my understanding of organizational systems and professional communication. However, my true calling was in the technical field. To bridge this gap, I completed a Data Analytics Bootcamp at TripleTen, where I mastered the art of turning raw data into actionable insights using Python and modern analytical libraries.
 
-Currently, I am a Software Engineering student transitioning fully into the world of code and data. My focus is on building robust systems, from data analysis pipelines for the automotive market to exploring the frontiers of post-quantum security with my project, Aether-ZPoint. I’m a high-performance hardware enthusiast and a dedicated Python developer, constantly bridging the gap between theoretical study and practical, high-impact software.
+Currently, as a Software Engineering student, I am moving beyond data to explore the core of computational systems. I am a tech enthusiast—from high-end hardware to the future of computing. My current focus is on deepening my coding skills and researching Post-Quantum Security through my project, Aether-ZPoint. My goal is to build software that is not only efficient but also prepared for the next generation of technological challenges.
 
 **What I bring:**
 
