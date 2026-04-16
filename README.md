@@ -179,15 +179,15 @@ I am a true tech enthusiast, passionate about high-performance hardware and the 
 Aether Script is my statement of intent: a demonstration that rigorous theoretical thinking, software craftsmanship, and long-term architectural vision can coexist in a single project.
 
 **Connect:**
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter/X](https://x.com/your-handle)
-- 📧 your@email.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-de-mattos-134278372/)
+- 📧 thiagomattos.tech@gmail.com
 
 ---
-
 ## 📄 License
 
-MIT License — See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License**. This means you are free to use, modify, and distribute the code, as long as the original copyright notice is preserved. 
+
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
