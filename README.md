@@ -163,11 +163,11 @@ python transpiler/runner.py output/bigdata_quantum.qasm
 
 ## 👤 About the Author
 
-Hi — I'm **Thiago de Mattos**, and my path to quantum software engineering is unconventional by design.
+Hi — I'm Thiago de Mattos, and my path to software engineering is driven by curiosity and a commitment to continuous learning.
 
-I spent years in **People Management and Human Resources**, where I led organizational design, workforce analytics, and large-scale change management programs. That experience forged something most engineers lack: a systems-level view of how people, processes, and technology interact under uncertainty.
+I spent two years studying Human Resources, where I developed a foundational understanding of organizational behavior and professional communication. This background gave me a unique perspective on how technology should ultimately serve people and solve human problems — a mindset I now bring into my technical projects.
 
-The transition to **Software Engineering and Data** wasn't a pivot — it was an evolution. I brought the same analytical rigor I applied to organizational systems and turned it toward computational systems. Today I specialize in quantum algorithm design, distributed systems architecture, and data engineering pipelines.
+Currently, I am a Software Engineering student transitioning fully into the world of code and data. My focus is on building robust systems, from data analysis pipelines for the automotive market to exploring the frontiers of post-quantum security with my project, Aether-ZPoint. I’m a high-performance hardware enthusiast and a dedicated Python developer, constantly bridging the gap between theoretical study and practical, high-impact software.
 
 **What I bring:**
 
