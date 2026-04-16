@@ -163,7 +163,7 @@ python transpiler/runner.py output/bigdata_quantum.qasm
 
 ## 👤 About the Author
 
-Hi — I'm **[Thiago de Mattos]**, and my path to quantum software engineering is unconventional by design.
+Hi — I'm **Thiago de Mattos**, and my path to quantum software engineering is unconventional by design.
 
 I spent years in **People Management and Human Resources**, where I led organizational design, workforce analytics, and large-scale change management programs. That experience forged something most engineers lack: a systems-level view of how people, processes, and technology interact under uncertainty.
 
