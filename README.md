@@ -191,5 +191,11 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ---
 
+* This project was conceived and architected by me. To ensure maximum technical rigor and accelerate the documentation of such a complex system, I used state-of-the-art Generative AI tools for structuring syntax, refining specifications, and generating examples. This approach reflects my ability to orchestrate advanced technologies and automation to accelerate innovation and cutting-edge software design.
+
 *"What we observe is not nature itself, but nature exposed to our method of questioning."*
 — Werner Heisenberg
+
+## ⚙️ Metodologia e Créditos
+
+
